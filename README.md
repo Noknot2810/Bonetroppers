@@ -4,6 +4,7 @@
 Bonetroppers is an educational Android game on Unity based on the multiple choice test part from Cambridge English Examinations. It includes questions from various common reference levels and can be useful for the majority of English learners, especially who wants to test themselves and better understand their level. This game is a diploma project.
 
 You can learn more about the game from this [presentation](https://github.com/Noknot2810/Bonetroppers/blob/master/Presentation%20Bonetroppers.pdf) (in Russian).
+You can download and play it on your Android device using this [file](https://github.com/Noknot2810/Bonetroppers/blob/master/Bonetroppers1.8.apk).
 
 ## Story
 In the story, a necromancer, gathering an army of skeletons, plains to capture England. However, he thinks it will be possible only if his army speaks English very well. So he examines every bonetrooper by the multiple choice test and if a skeleton makes two mistakes, the necromancer blows him up and constructs a new one.
