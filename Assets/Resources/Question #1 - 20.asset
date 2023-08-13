@@ -1,0 +1,468 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6af9a88f2305a934d97d026076a41788, type: 3}
+  m_Name: Question #1 - 20
+  m_EditorClassIdentifier: 
+  _text: 
+  _isTask: 1
+  _level: Starter
+  _questions:
+  - question: _ name is Jerry.
+    options:
+    - Me
+    - I
+    - My
+    correctIs: 2
+  - question: They _ from Russia.
+    options:
+    - is
+    - are
+    - do
+    correctIs: 1
+  - question: _ are you from?
+    options:
+    - What
+    - Who
+    - Where
+    correctIs: 2
+  - question: What do you do? I'm _ soldier.
+    options:
+    - the
+    - a
+    - just
+    correctIs: 1
+  - question: Garry _ at seven o'clock.
+    options:
+    - goes up
+    - gets
+    - gets up
+    correctIs: 2
+  - question: _ you like this film?
+    options:
+    - Are
+    - Have
+    - Do
+    correctIs: 2
+  - question: We _ live in a flat.
+    options:
+    - don't
+    - hasn't
+    - doesn't
+    correctIs: 0
+  - question: Wednesday, Thursday, Friday, _ .
+    options:
+    - Saturday
+    - Tuesday
+    - Monday
+    correctIs: 0
+  - question: _ he play football?
+    options:
+    - Where
+    - Does
+    - Do
+    correctIs: 1
+  - question: Have you _ a car?
+    options:
+    - any
+    - have
+    - got
+    correctIs: 2
+  - question: We don't have _ butter.
+    options:
+    - a
+    - any
+    - got
+    correctIs: 1
+  - question: _ some money here.
+    options:
+    - There're
+    - There
+    - There's
+    correctIs: 2
+  - question: We _ got a garage.
+    options:
+    - haven't
+    - hasn't
+    - don't
+    correctIs: 0
+  - question: Those shoes are very _ .
+    options:
+    - expensive
+    - a lot
+    - cost
+    correctIs: 0
+  - question: Have you got a pen? Yes, I _ .
+    options:
+    - am
+    - have
+    - got
+    correctIs: 1
+  - question: It is a busy, _ city.
+    options:
+    - traffic
+    - quite
+    - noisy
+    correctIs: 2
+  - question: They _ at home yesterday.
+    options:
+    - was
+    - are
+    - were
+    correctIs: 2
+  - question: I _ there for a long time.
+    options:
+    - lived
+    - living
+    - live
+    correctIs: 2
+  - question: He didn't _ glasses.
+    options:
+    - put
+    - wear
+    - take
+    correctIs: 1
+  - question: The restaurant was _ busy.
+    options:
+    - very
+    - a lot
+    - many
+    correctIs: 0
+  - question: Where _ from? I'm from Russia.
+    options:
+    - you are
+    - you
+    - are you
+    correctIs: 2
+  - question: We have _ house in Moscow.
+    options:
+    - any
+    - a
+    - an
+    correctIs: 1
+  - question: I have two _, a boy and girl.
+    options:
+    - sons
+    - daughters
+    - children
+    correctIs: 2
+  - question: I work in a _. I'm a doctor.
+    options:
+    - hospital
+    - hotel
+    - supermarket
+    correctIs: 0
+  - question: This is my brother. _ name is Paul.
+    options:
+    - Her
+    - His
+    - He's
+    correctIs: 1
+  - question: _ five people in my family.
+    options:
+    - They are
+    - There is
+    - There are
+    correctIs: 2
+  - question: I get up _ 7 o'clock in the morning.
+    options:
+    - for
+    - at
+    - in
+    correctIs: 1
+  - question: I like apples, but I _ bananas.
+    options:
+    - don't like
+    - like
+    - do like
+    correctIs: 0
+  - question: Excuse me, _ speak French?
+    options:
+    - do you
+    - you do
+    - you
+    correctIs: 0
+  - question: How much are _ shoes?
+    options:
+    - this
+    - these
+    - that
+    correctIs: 1
+  - question: Where are my glasses? They're _ the table.
+    options:
+    - at
+    - on
+    - in
+    correctIs: 1
+  - question: My sister _ tennis very well.
+    options:
+    - plays
+    - play
+    - playing
+    correctIs: 0
+  - question: I usually go to work _ train.
+    options:
+    - on
+    - with
+    - by
+    correctIs: 2
+  - question: I don't see my parents very often _ they live in South Africa.
+    options:
+    - so
+    - but
+    - because
+    correctIs: 2
+  - question: Rosie stayed _ home yesterday afternoon.
+    options:
+    - in
+    - at
+    - to
+    correctIs: 1
+  - question: Last night I _ to the cinema.
+    options:
+    - went
+    - did go
+    - was
+    correctIs: 0
+  - question: The _ is quite expensive but the food there is excellent.
+    options:
+    - film
+    - restaurant
+    - book
+    correctIs: 1
+  - question: Do you want to listen to music or _ TV?
+    options:
+    - see
+    - look
+    - watch
+    correctIs: 2
+  - question: _ were you at the weekend? I was in Scotland.
+    options:
+    - When
+    - Where
+    - What
+    correctIs: 1
+  - question: _ you have a good time at the party? Yes, it was fun.
+    options:
+    - Did
+    - Were
+    - Had
+    correctIs: 0
+  - question: This man has dark _ .
+    options:
+    - heads
+    - head
+    - hairs
+    - hair
+    correctIs: 3
+  - question: This guy has a  _ .
+    options:
+    - beard
+    - barber
+    - moustaches
+    - facehair
+    correctIs: 0
+  - question: He is _ a hat.
+    options:
+    - wearing
+    - carrying
+    - having
+    - holding
+    correctIs: 0
+  - question: The man is _ a piece of paper.
+    options:
+    - wearing
+    - getting
+    - having
+    - holding
+    correctIs: 3
+  - question: I am sitting at my _ .
+    options:
+    - chair
+    - desk
+    - office
+    - room
+    correctIs: 1
+  - question: Stive? Perhaps he is _ .
+    options:
+    - work
+    - at work
+    - business
+    - on job
+    correctIs: 1
+  - question: You arrive at a party at 7 p.m. What dou you say?
+    options:
+    - Goodnight
+    - Good-bye
+    - Good evening
+    - Good afternoon
+    correctIs: 2
+  - question: Someone offers you an apple. You do not want it. What do you say?
+    options:
+    - Thank you
+    - Please
+    - No, thank you
+    - No, please
+    correctIs: 2
+  - question: Bob _ going to work.
+    options:
+    - likes not
+    - don't like
+    - doesn't like
+    - not like
+    correctIs: 2
+  - question: _ early in the morning?
+    options:
+    - Does Jake get up
+    - Gets Jake up
+    - Do Jake get up
+    - Get Jake up
+    correctIs: 0
+  - question: Jane _ to drive a car.
+    options:
+    - am learning
+    - learning
+    - is learning
+    - are learning
+    correctIs: 2
+  - question: A plain is _ a train.
+    options:
+    - more quickly
+    - quickly
+    - quicker than
+    - more quick
+    correctIs: 2
+  - question: Tony _ run  very well.
+    options:
+    - not can
+    - cannot
+    - doesn't can
+    - don't can
+    correctIs: 1
+  - question: _ the bus to work.
+    options:
+    - Always Jim catches
+    - Jim always catches
+    - Jim catches always
+    - Jim does always catches
+    correctIs: 1
+  - question: Nicolas works in York.
+    options:
+    - He goes there by bus
+    - He there goes  by bus
+    - He goes by bus here
+    - There goes he by bus
+    correctIs: 0
+  - question: _ TV last evening.
+    options:
+    - Did John watch
+    - Watched John
+    - Did John watched
+    - Does John watch
+    correctIs: 0
+  - question: I spoke slowly, but he _ understand me.
+    options:
+    - canned not
+    - didn't can
+    - didn't could
+    - could not
+    correctIs: 3
+  - question: Boris made _ last year.
+    options:
+    - many money
+    - much money
+    - a lot of money
+    - lots money
+    correctIs: 2
+  - question: I asked Rose _ .
+    options:
+    - to not go away
+    - to go not away
+    - not to go away
+    - go not away
+    correctIs: 2
+  - question: He used to live _ Paris.
+    options:
+    - on
+    - in
+    - to
+    - at
+    correctIs: 1
+  - question: Tomas _ to her on the phone.
+    options:
+    - spoked
+    - speaked
+    - spoke
+    - spoken
+    correctIs: 2
+  - question: Quiet, please - I _ !
+    options:
+    - am doing a test
+    - do a test
+    - doing a test
+    - does a test
+    correctIs: 0
+  - question: I won't go to school if it _ tomorrow.
+    options:
+    - rain
+    - would rain
+    - rains
+    - raining
+    correctIs: 2
+  - question: Where's Mr Johnson? He's _ Moscow today.
+    options:
+    - in
+    - on
+    - to
+    - at
+    correctIs: 0
+  - question: Do you like dogs? No, but there _ lots of other animals I like.
+    options:
+    - is
+    - be
+    - are
+    - was
+    correctIs: 2
+  - question: Where _ Bob come from? He's from the UK.
+    options:
+    - is
+    - do
+    - are
+    - does
+    correctIs: 3
+  - question: My mother and father _ both very young.
+    options:
+    - is
+    - isn't
+    - are
+    - am
+    correctIs: 2
+  - question: That's a nice cup, is it new? No, it's my _ old cup.
+    options:
+    - father
+    - fathers
+    - father's
+    - fathers'
+    correctIs: 2
+  - question: Do you visit your friends? No, I _ go out.
+    options:
+    - often
+    - never
+    - always
+    - sometimes
+    correctIs: 1
+  - question: Rohn is _.
+    options:
+    - my sister's friend
+    - friend my sister
+    - friend from my sister
+    - my sister friend's
+    correctIs: 0

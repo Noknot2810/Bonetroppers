@@ -1,0 +1,468 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6af9a88f2305a934d97d026076a41788, type: 3}
+  m_Name: Question #21 - 40
+  m_EditorClassIdentifier: 
+  _text: 
+  _isTask: 1
+  _level: Elementary
+  _questions:
+  - question: Do you like red _?
+    options:
+    - it
+    - that
+    - one
+    correctIs: 2
+  - question: He _ to Brazil on business.
+    options:
+    - go
+    - goed
+    - went
+    correctIs: 2
+  - question: Yesterday was the _ of April.
+    options:
+    - third
+    - three
+    - day three
+    correctIs: 0
+  - question: She's got _ hair.
+    options:
+    - dark-long
+    - long and dark
+    - dark, long
+    correctIs: 2
+  - question: I _ play football at the weekend.
+    options:
+    - usually
+    - use
+    - usual
+    correctIs: 0
+  - question: I _ in an armchair at the moment.
+    options:
+    - sitting
+    - '''m sitting'
+    - sit
+    correctIs: 1
+  - question: My brother is older _ me.
+    options:
+    - then
+    - that
+    - than
+    correctIs: 2
+  - question: Their car is _ biggest on the road.
+    options:
+    - than
+    - this
+    - the
+    correctIs: 2
+  - question: It's the _ interesting of his films.
+    options:
+    - more
+    - much
+    - most
+    correctIs: 2
+  - question: 'The phone''s ringing: _ answer it.'
+    options:
+    - I'll
+    - I
+    - will
+    correctIs: 0
+  - question: Do you _ classical or rock music?
+    options:
+    - rather
+    - prefer
+    - more
+    correctIs: 1
+  - question: He has _ breakfast.
+    options:
+    - ate
+    - eaten
+    - eat
+    correctIs: 1
+  - question: The _ have seen it before.
+    options:
+    - childs
+    - child
+    - children
+    correctIs: 2
+  - question: I've never met an actor _ .
+    options:
+    - before
+    - already
+    - after
+    correctIs: 0
+  - question: _ is very good exercise.
+    options:
+    - Swim
+    - To swim
+    - Swimming
+    correctIs: 2
+  - question: Have you _ been on a winter sports holiday?
+    options:
+    - always
+    - ever
+    - soon
+    correctIs: 1
+  - question: I can't _ another language.
+    options:
+    - speaking
+    - speak
+    - to speak
+    correctIs: 1
+  - question: They _ pay for the tickets.
+    options:
+    - haven't to
+    - don't have
+    - don't have to
+    correctIs: 2
+  - question: _ old is their car?
+    options:
+    - What
+    - When
+    - How
+    correctIs: 2
+  - question: Are you _ for one or two weeks?
+    options:
+    - staying
+    - stayed
+    - stay
+    correctIs: 0
+  - question: Are you _ English teacher?
+    options:
+    - Maria
+    - Marias'
+    - Maria's
+    correctIs: 2
+  - question: Bob will meet _ at the airport.
+    options:
+    - us
+    - we
+    - our
+    correctIs: 0
+  - question: I'm going to a concert tonight. _ you like to come?
+    options:
+    - Do
+    - Are
+    - Would
+    correctIs: 2
+  - question: _ use your dictionary? Sure. Here you are.
+    options:
+    - Could I
+    - Could you
+    - Do I
+    correctIs: 0
+  - question: I like this apartment but the _ is too expensive for me.
+    options:
+    - money
+    - rent
+    - cost
+    correctIs: 1
+  - question: Excuse me, how do I _ in the bus station.
+    options:
+    - come
+    - get
+    - arrive
+    correctIs: 1
+  - question: Do you sell stamps? Yes, we do. How _ do you want?
+    options:
+    - any
+    - many
+    - much
+    correctIs: 1
+  - question: Sorry I'm late. That's _ .
+    options:
+    - OK
+    - great
+    - right
+    correctIs: 0
+  - question: I'd like _ milk in my coffee, please.
+    options:
+    - some
+    - any
+    - a
+    correctIs: 0
+  - question: _ a bus stop near my flat.
+    options:
+    - It's
+    - Here's
+    - There's
+    correctIs: 2
+  - question: Is this a good time to talk? Sorry, no. I _ dinner.
+    options:
+    - cook
+    - am cooking
+    - cooking
+    correctIs: 1
+  - question: I think cycling is more dangerous _ driving.
+    options:
+    - as
+    - like
+    - than
+    correctIs: 2
+  - question: We _ going to the theatre next Saturday.
+    options:
+    - will
+    - do
+    - are
+    correctIs: 2
+  - question: _ meet for coffee some time soon.
+    options:
+    - Let's
+    - Do you
+    - Shall they
+    correctIs: 0
+  - question: Kamal has got a holiday home near _ sea.
+    options:
+    - a
+    - the
+    - some
+    correctIs: 1
+  - question: If you've got a headache, you _ go home.
+    options:
+    - should
+    - did
+    - had
+    correctIs: 0
+  - question: _ ever been to New York?
+    options:
+    - Have you
+    - Are you
+    - Did you
+    correctIs: 0
+  - question: I only get about five hours' sleep a night. That's not _ .
+    options:
+    - enough
+    - lot
+    - too much
+    correctIs: 0
+  - question: Did Amina finish the report? No. She _ it tomorrow.
+    options:
+    - finishes
+    - is going to finish
+    - finished
+    correctIs: 1
+  - question: Paula _ loves working with children.
+    options:
+    - very
+    - really
+    - much
+    correctIs: 1
+  - question: While Jake _ to York he saw an accident.
+    options:
+    - was driving
+    - drives
+    - drove
+    - had driven
+    correctIs: 0
+  - question: Millions of cigarettes _ every year.
+    options:
+    - is smoke
+    - are smoking
+    - are smoked
+    - are smoke
+    correctIs: 2
+  - question: He has a _ experience in trading in America.
+    options:
+    - grand
+    - wide
+    - large
+    - great
+    correctIs: 1
+  - question: I remember _ John in Rome.
+    options:
+    - of meeting
+    - to meet
+    - to meeting
+    - meeting
+    correctIs: 3
+  - question: I saw Sam in London _ .
+    options:
+    - 2 years ago
+    - for 2 years
+    - before 2 years
+    - since 2 years
+    correctIs: 0
+  - question: Could you look _ the blackboard and read what is on it?
+    options:
+    - to
+    - on
+    - for
+    - at
+    correctIs: 3
+  - question: Baker went abroad last year. _ abroad before.
+    options:
+    - She had never been
+    - She had been never
+    - She never went
+    - She went never
+    correctIs: 0
+  - question: The last Olympic Games _ in Moscow.
+    options:
+    - were helded
+    - was holded
+    - were held
+    - were hold
+    correctIs: 2
+  - question: Mark took _ cheese.
+    options:
+    - all of
+    - all
+    - the all
+    - all of the
+    correctIs: 3
+  - question: The committee held a _ yesterday.
+    options:
+    - meeting
+    - gathering
+    - session
+    - sitting
+    correctIs: 0
+  - question: I _ his speech very carefully.
+    options:
+    - heard to
+    - heard
+    - listened to
+    - overheard
+    correctIs: 2
+  - question: Jake would have known that, if he _ the meeting.
+    options:
+    - had attended
+    - would have attended
+    - has attended
+    - would attended
+    correctIs: 0
+  - question: Would you mind _ the door?
+    options:
+    - open
+    - to open
+    - opening
+    - to opening
+    correctIs: 2
+  - question: In June Ed _ for us for 25 years.
+    options:
+    - will have worked
+    - will work
+    - is going to work
+    - will be working
+    correctIs: 0
+  - question: _ since I came back to the park.
+    options:
+    - Did Rose telephone
+    - Was Rose telephone
+    - Telephoned Rose
+    - Has Rose telephoned
+    correctIs: 3
+  - question: He speakes English very well _ he's only 9.
+    options:
+    - whereas
+    - despite
+    - in spite
+    - although
+    correctIs: 3
+  - question: Is Mike home today? No, he _. He's not well today.
+    options:
+    - isn't
+    - aren't
+    - doesn't
+    - hasn't
+    correctIs: 0
+  - question: _ apples have we got? Three, I think. Let me check.
+    options:
+    - How big
+    - How much
+    - How many
+    - How long
+    correctIs: 2
+  - question: Which bus goes to the cemetery? _ the 166.
+    options:
+    - Get
+    - Got
+    - Gets
+    - Getting
+    correctIs: 0
+  - question: Are we ready to go? No, dad can't find _ weapon.
+    options:
+    - its
+    - her
+    - his
+    - their
+    correctIs: 2
+  - question: Hello, salesman. I'd like to buy _ shoes.
+    options:
+    - a
+    - an
+    - this
+    - these
+    correctIs: 3
+  - question: Where's that meat I bought? Oh no! The dog _ it.
+    options:
+    - eat
+    - eats
+    - is eating
+    - are eating
+    correctIs: 2
+  - question: This chair _ comfortable than the other one we had.
+    options:
+    - too
+    - very
+    - much
+    - more
+    correctIs: 3
+  - question: I know you're going to the market. Could you get _?
+    options:
+    - a
+    - any
+    - some
+    - every
+    correctIs: 2
+  - question: When do you want to play tennis? I _ to play tommorow.
+    options:
+    - like
+    - likes
+    - liked
+    - '''d like'
+    correctIs: 3
+  - question: Ann, I _ golf with my friend yesterday.
+    options:
+    - play
+    - played
+    - plays
+    - playing
+    correctIs: 1
+  - question: We haven't any milk. I'm _ buy some this afternoon.
+    options:
+    - go
+    - go to
+    - going
+    - going to
+    correctIs: 3
+  - question: Where _ you last Sunday?
+    options:
+    - were
+    - was
+    - are
+    - is
+    correctIs: 0
+  - question: I'm sorry. I'm not coming because I _ to go to my son.
+    options:
+    - has
+    - had
+    - have
+    - having
+    correctIs: 2
+  - question: Why do you like running? It's _ way to keep fit.
+    options:
+    - best
+    - better
+    - the best
+    - the better
+    correctIs: 2

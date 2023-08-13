@@ -1,0 +1,387 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6af9a88f2305a934d97d026076a41788, type: 3}
+  m_Name: Question #81 - 100
+  m_EditorClassIdentifier: 
+  _text: 
+  _isTask: 1
+  _level: Upper-Intermediate
+  _questions:
+  - question: We arrived at the station, but the bus _ earlier.
+    options:
+    - has left
+    - had leave
+    - has leave
+    - had left
+    correctIs: 3
+  - question: We can _ walk or go by car.
+    options:
+    - both
+    - rather
+    - either
+    - neither
+    correctIs: 2
+  - question: If I _ enough money, I'd buy a new car.
+    options:
+    - had
+    - would
+    - did
+    - shall
+    correctIs: 0
+  - question: It _ correctly.
+    options:
+    - hasn't done
+    - hasn't been done
+    - hasn't been do
+    - not been done
+    correctIs: 1
+  - question: The accident wouldn't have happened, if you had been more _ .
+    options:
+    - careful
+    - carefully
+    - careless
+    - caring
+    correctIs: 0
+  - question: It _ be possible some time in the future.
+    options:
+    - 'can '
+    - hope
+    - may
+    - is
+    correctIs: 2
+  - question: Schools then _ having more children in the class.
+    options:
+    - was used to
+    - were used to
+    - was use to
+    - were use to
+    correctIs: 1
+  - question: We _ to go to work at six in the morning.
+    options:
+    - must
+    - would
+    - had
+    - did
+    correctIs: 2
+  - question: They _ an old photograph of the place.
+    options:
+    - came up
+    - came across
+    - came into
+    - came after
+    correctIs: 1
+  - question: I _ I had been able to meet her.
+    options:
+    - hope
+    - want
+    - think
+    - wish
+    correctIs: 3
+  - question: We'll have taken our exams _ this time next month.
+    options:
+    - by
+    - on
+    - during
+    - for
+    correctIs: 0
+  - question: I will do badly in my work, _ try harder.
+    options:
+    - if I'm not
+    - if i wasn't
+    - if I haven't
+    - if I don't
+    correctIs: 3
+  - question: I _ wasted my time when I was at university.
+    options:
+    - regret
+    - shouldn't
+    - ought not to
+    - shouldn't have
+    correctIs: 3
+  - question: This is going to be my chance to _ any difficulties.
+    options:
+    - repair
+    - sort out
+    - solve
+    - improve
+    correctIs: 1
+  - question: It was difficult at first, but I soon got _ it.
+    options:
+    - got used to
+    - get used to
+    - changed to
+    - used to
+    correctIs: 0
+  - question: How did you manage to cook _ a good meal?
+    options:
+    - so
+    - that
+    - absolutely
+    - such
+    correctIs: 2
+  - question: The solution had been found, _ we hadn't realized it.
+    options:
+    - however
+    - therefore
+    - although
+    - even
+    correctIs: 2
+  - question: She _ I had been doing for all that time.
+    options:
+    - asked to me
+    - asked for me
+    - asked with me
+    - asked me
+    correctIs: 3
+  - question: They _ heard us coming, we were making a lot of noise.
+    options:
+    - must have
+    - must
+    - might
+    - could
+    correctIs: 0
+  - question: He _ to help me with the decorating.
+    options:
+    - suggested
+    - offered
+    - invited
+    - told
+    correctIs: 1
+  - question: I am _ to be picking Tom upat the station but I've lost my keys.
+    options:
+    - supposed
+    - requested
+    - intended
+    - obliged
+    correctIs: 0
+  - question: How about going to Colours nightclub? There's no _ I'm going there.
+      It's awful!
+    options:
+    - hope
+    - way
+    - time
+    - opportunity
+    correctIs: 1
+  - question: By the age of 18, I _ not to go to university.
+    options:
+    - had decided
+    - decided
+    - have decided
+    - was deciding
+    correctIs: 0
+  - question: I'm afraid your car _ repaired before next week.
+    options:
+    - hasn't been
+    - wasn't
+    - wouldn't be
+    - can't be
+    correctIs: 3
+  - question: The amount of organically grown food on sale has _ enormously in recent
+      years.
+    options:
+    - raised
+    - lifted
+    - increased
+    - built
+    correctIs: 2
+  - question: Can you believe it? A woman has been _ for hacking into the computer
+      of her online virtual husband.
+    options:
+    - accused
+    - suspended
+    - arrested
+    - suspected
+    correctIs: 2
+  - question: You may borrow my laptop _ you promise to look after it.
+    options:
+    - unless
+    - in case
+    - as long as
+    - although
+    correctIs: 2
+  - question: It's a huge painting. It _ taken ages to complete.
+    options:
+    - must have
+    - can't have
+    - should have
+    - won't have
+    correctIs: 0
+  - question: Pierre tends to put _ dealing with problems, rather than dealing with
+      them immediately.
+    options:
+    - down
+    - off
+    - over
+    - away
+    correctIs: 1
+  - question: If the taxi hadn't stopped for us, we _ standing in the rain.
+    options:
+    - were still
+    - would still be
+    - are still
+    - will still be
+    correctIs: 1
+  - question: My mother's Italian, so _ the language has been quite easy for me.
+    options:
+    - to learn
+    - learn
+    - having learned
+    - learning
+    correctIs: 3
+  - question: _ I had the talent, I still wouldn't want to be a movie star.
+    options:
+    - In case
+    - Even if
+    - Provided that
+    - However much
+    correctIs: 1
+  - question: The factory workers threatened _ on strike if they didn't get a pay
+      rise.
+    options:
+    - going
+    - to go
+    - that they go
+    - to have gone
+    correctIs: 1
+  - question: I was about to go to sleep when it _ to me where the missing keys might
+      be.
+    options:
+    - remembered
+    - happened
+    - appeared
+    - occured
+    correctIs: 3
+  - question: There's going to be a new department at work. They've asked me to _
+      it up.
+    options:
+    - take
+    - set
+    - put
+    - bring
+    correctIs: 1
+  - question: If the film is a _ success, the director will get most of the credit.
+    options:
+    - big
+    - high
+    - large
+    - good
+    correctIs: 0
+  - question: By the end of today's seminar I will _ to each of you individually.
+    options:
+    - speak
+    - have spoken
+    - be speaking
+    - have been speaking
+    correctIs: 1
+  - question: This is a photo of my little sister _ ice cream on the beach.
+    options:
+    - eat
+    - eating
+    - was eating
+    - having eaten
+    correctIs: 1
+  - question: Our students take their responsibilities very _ .
+    options:
+    - considerably
+    - thoroughly
+    - seriously
+    - strongly
+    correctIs: 2
+  - question: Pia was _ delighted with the birtday present.
+    options:
+    - very
+    - completely
+    - fairly
+    - absolutely
+    correctIs: 3
+  - question: I don't have much money - just enough to _.
+    options:
+    - get by
+    - pay off
+    - do with
+    - make up
+    correctIs: 0
+  - question: In May next year I _ here for 5 years exactly.
+    options:
+    - will live
+    - will be living
+    - am going to live
+    - will have been living
+    correctIs: 3
+  - question: It took ages to invent the engine. When they succeeded, they _ on it
+      for 30 years.
+    options:
+    - must work
+    - had been working
+    - have worked
+    - would be working
+    correctIs: 1
+  - question: This would be a lovely place to sit on a dry day. Yes, I just wish
+      the rain _ .
+    options:
+    - would stop
+    - has stopped
+    - will have stopped
+    - would be stopping
+    correctIs: 0
+  - question: Today we are going to learn about a tribe _ descendats live in Nigeria.
+    options:
+    - who
+    - which
+    - whose
+    - whom
+    correctIs: 2
+  - question: When I was young we _ to this market every Sunday looking for bargains.
+    options:
+    - had gone
+    - would go
+    - were going
+    - had been going
+    correctIs: 1
+  - question: Just think - if you hadn't sat next to him in the bus, you _ so close
+      now.
+    options:
+    - won't be
+    - wouldn't be
+    - wouldn't have been
+    - aren't
+    correctIs: 1
+  - question: No way. The Prime Minister was _ to resign today.
+    options:
+    - charged
+    - argued
+    - struggled
+    - forced
+    correctIs: 3
+  - question: Bus has been delayed. It turns out that we _ have rushed to get here
+      after all.
+    options:
+    - needn't
+    - could
+    - should
+    - mustn't
+    correctIs: 0
+  - question: You _ taken a taxi to the hotel since you arrived so late.
+    options:
+    - will have
+    - should have
+    - might have
+    - would have
+    correctIs: 1
+  - question: Have they finished interviewing yet? No, but they _ all candidates
+      by next Monday.
+    options:
+    - won't see
+    - would see
+    - haven't seen
+    - will have seen
+    correctIs: 3

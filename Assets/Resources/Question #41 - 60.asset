@@ -1,0 +1,465 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6af9a88f2305a934d97d026076a41788, type: 3}
+  m_Name: Question #41 - 60
+  m_EditorClassIdentifier: 
+  _text: 
+  _isTask: 1
+  _level: Pre-Intermediate
+  _questions:
+  - question: Stephen _ to visit his parents.
+    options:
+    - will
+    - going
+    - is going
+    correctIs: 2
+  - question: I don't _ getting up early.
+    options:
+    - not like
+    - want
+    - enjoy
+    correctIs: 2
+  - question: We _ like to see mountains.
+    options:
+    - would
+    - will
+    - are
+    correctIs: 0
+  - question: They _ ever check their emails.
+    options:
+    - hard
+    - harder
+    - hardly
+    correctIs: 2
+  - question: They won't come, _ they?
+    options:
+    - won't
+    - come
+    - will
+    correctIs: 2
+  - question: He _ know how to spell it.
+    options:
+    - doesn't
+    - hasn't
+    - don't
+    correctIs: 0
+  - question: Carla _ to the radio all morning.
+    options:
+    - listening
+    - heard
+    - listened
+    correctIs: 2
+  - question: They _ come to the cinema with us.
+    options:
+    - doesn't
+    - not
+    - didn't
+    correctIs: 2
+  - question: I like this song. _ do I.
+    options:
+    - Either
+    - So
+    - Neither
+    correctIs: 1
+  - question: We _ them at eight o'clock.
+    options:
+    - meet
+    - '''re meet'
+    - '''re meeting'
+    correctIs: 2
+  - question: They are going _ in America next month.
+    options:
+    - to be
+    - will be
+    - be
+    - being
+    correctIs: 0
+  - question: This is the cinema _ we saw the film.
+    options:
+    - when
+    - which
+    - that
+    - where
+    correctIs: 3
+  - question: Have you ever _ in a jazz band?
+    options:
+    - seen
+    - played
+    - listened
+    - wanted
+    correctIs: 1
+  - question: I'm _ when I'm with you.
+    options:
+    - happyer
+    - happier than
+    - happier
+    - the happy
+    correctIs: 2
+  - question: This is _ than I thought.
+    options:
+    - bad
+    - badder
+    - worse
+    - worst
+    correctIs: 2
+  - question: Can you tell me the way _?
+    options:
+    - to the bank
+    - is the bank
+    - where is bank
+    - of the bank
+    correctIs: 0
+  - question: Do you know what _?
+    options:
+    - time is it
+    - time is
+    - time is now
+    - time it is
+    correctIs: 3
+  - question: Were you _ to open the door?
+    options:
+    - could
+    - can
+    - able
+    - possible
+    correctIs: 2
+  - question: Everybody _ wear a seat belt in the car.
+    options:
+    - must
+    - mustn't
+    - don't have to
+    - doesn't have to
+    correctIs: 0
+  - question: Tom has lived in this town _ three years.
+    options:
+    - since
+    - from
+    - after
+    - for
+    correctIs: 3
+  - question: Is Ottawa the capital of Canada? I think _ .
+    options:
+    - is
+    - yes
+    - so
+    - right
+    correctIs: 2
+  - question: We never _ a television when I was a child.
+    options:
+    - have had
+    - hadn't
+    - had
+    - didn't have
+    correctIs: 2
+  - question: We paid the restaurant bill _ credit card.
+    options:
+    - to
+    - with
+    - on
+    - by
+    correctIs: 3
+  - question: The last time I _ Joanna was in Paris.
+    options:
+    - have seen
+    - saw
+    - see
+    - was seeing
+    correctIs: 1
+  - question: If you _ money from a friend, you should always pay it back promptly.
+    options:
+    - borrow
+    - earn
+    - spend
+    - lend
+    correctIs: 0
+  - question: Can I make myself a cup of coffee? Of course. You _ to ask.
+    options:
+    - haven't
+    - mustn't
+    - needn't
+    - don't have
+    correctIs: 3
+  - question: _ a lot of sport in my free time.
+    options:
+    - do
+    - practise
+    - make
+    - exercise
+    correctIs: 0
+  - question: _ anywhere interesting recently?
+    options:
+    - Do you go
+    - Have you been
+    - Are you going
+    - Will you go
+    correctIs: 1
+  - question: It's Walter's birthday on Friday. He _ be 30, I think.
+    options:
+    - should
+    - can
+    - will
+    - shall
+    correctIs: 2
+  - question: Learning the piano isn't as difficult _ learning the violin.
+    options:
+    - like
+    - so
+    - than
+    - as
+    correctIs: 3
+  - question: If the weather _ bad tomorrow, we can go to a museum.
+    options:
+    - will be
+    - was
+    - is
+    - would be
+    correctIs: 2
+  - question: About a billion cans of Coca-Cola _ drunk around the world every day.
+    options:
+    - is
+    - are
+    - was
+    - were
+    correctIs: 1
+  - question: My mum's not very well. Oh, _ .
+    options:
+    - id doesn't matter
+    - I do apologize
+    - sorry to hear that
+    - not bad, thanks
+    correctIs: 2
+  - question: Hans isn't here. He _ to see his grandmother. He'll be back tomorrow.
+    options:
+    - has gone
+    - had been
+    - has been
+    - had gone
+    correctIs: 0
+  - question: Would you mind changing my appointment? _ time on Friday is fine.
+    options:
+    - Next
+    - All the
+    - Every
+    - Any
+    correctIs: 3
+  - question: When I was a child, I _ climb the wall and jump into our neighbours'
+      garden.
+    options:
+    - would
+    - did
+    - have
+    - used
+    correctIs: 0
+  - question: Have you finished _ the wall yet?
+    options:
+    - paint
+    - to paint
+    - painting
+    - painted
+    correctIs: 2
+  - question: Can you help me? I've tried _ hotel in the city and can't find a room.
+    options:
+    - many
+    - any
+    - every
+    - all
+    correctIs: 2
+  - question: Lena used to find work boring _ she became a nurse.
+    options:
+    - unless
+    - until
+    - if
+    - since
+    correctIs: 1
+  - question: If I _ closer to my office, I could walk to work.
+    options:
+    - lived
+    - would live
+    - had lived
+    - live
+    correctIs: 0
+  - question: I _ John no to do that many times.
+    options:
+    - talked
+    - told
+    - spoke
+    - said
+    correctIs: 1
+  - question: Rick never takes risks. He's very _ man.
+    options:
+    - mindful
+    - anxious
+    - attentive
+    - cautious
+    correctIs: 3
+  - question: I'd like to put _ a suggestion, if I may.
+    options:
+    - forward
+    - over
+    - across
+    - through
+    correctIs: 0
+  - question: I _ this task for at least half an hour now.
+    options:
+    - do
+    - am doing
+    - have done
+    - have been doing
+    correctIs: 3
+  - question: I'll speak to Boris when he _ .
+    options:
+    - will arrive
+    - is arriving
+    - arrives
+    - would arrive
+    correctIs: 2
+  - question: He asked me _ tomorrow.
+    options:
+    - if I come
+    - that I come
+    - if I could come
+    - that I can come
+    correctIs: 2
+  - question: If Morty doesn't come, _ what to do tomorrow.
+    options:
+    - he wouldn't know
+    - he didn't know
+    - he will not have known
+    - he won't know
+    correctIs: 3
+  - question: 'Polite Mrs Morgan: Good morning, _ is my husband.'
+    options:
+    - This
+    - It
+    - He
+    - That
+    correctIs: 0
+  - question: I know you're _ in buying a car.
+    options:
+    - intending
+    - interesting
+    - intended
+    - interested
+    correctIs: 3
+  - question: Everything is fine with this invoice, but we _ a problem.
+    options:
+    - make
+    - have
+    - are
+    - seem
+    correctIs: 1
+  - question: I wand to live in a flat _ maintenance included.
+    options:
+    - for
+    - with
+    - and
+    - by
+    correctIs: 1
+  - question: I lived here over 30 years. I know _ of people in this town.
+    options:
+    - any
+    - lots
+    - more
+    - most
+    correctIs: 1
+  - question: I wanted to go but I couldn't. I _ studying for the test.
+    options:
+    - was
+    - were
+    - am
+    - been
+    correctIs: 0
+  - question: Look! That bird _ eat the bread we put there.
+    options:
+    - is
+    - will
+    - goes to
+    - is going to
+    correctIs: 3
+  - question: How long _ married?
+    options:
+    - had you got
+    - did you get
+    - have you been
+    - are you being
+    correctIs: 2
+  - question: Have you _ that new film yet?
+    options:
+    - see
+    - saw
+    - seen
+    - seeing
+    correctIs: 2
+  - question: Could I get past? Sorry, we're getting in the way, _ we?
+    options:
+    - don't
+    - aren't
+    - can't
+    - haven't
+    correctIs: 1
+  - question: Musicians _ a lot of money for writing short songs for advertising.
+    options:
+    - pay
+    - paid
+    - are paid
+    - are paying
+    correctIs: 2
+  - question: Ok, but If we buy a guitar you _ have to practise playing it.
+    options:
+    - will
+    - can
+    - could
+    - must
+    correctIs: 0
+  - question: I don't like that coffee because it's _ strong.
+    options:
+    - too
+    - such
+    - much
+    - enough
+    correctIs: 0
+  - question: I'd like one of _ newspapers, please.
+    options:
+    - most recent
+    - more recent
+    - the most recent
+    - the more recent
+    correctIs: 2
+  - question: I _ buy it if we had money, but it's not possible right now.
+    options:
+    - will
+    - may
+    - should
+    - would
+    correctIs: 3
+  - question: _ you packed your suitcase yet?
+    options:
+    - Did
+    - Have
+    - Will
+    - Are
+    correctIs: 1
+  - question: I _ play the piano when I was younger, but I'm not sure I remember
+      now.
+    options:
+    - can
+    - can't
+    - could
+    - couldn't
+    correctIs: 2
+  - question: Doctor asked me what I _ for the last two days.
+    options:
+    - eat
+    - had eaten
+    - was eating
+    - would eat
+    correctIs: 1

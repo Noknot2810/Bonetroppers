@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b423183de84c5204fbf69ac90e1e5d3b, type: 3}
+    - {fileID: 2800000, guid: 5c6e3f6141e5f004c863626f08941ce7, type: 3}
+    - {fileID: 2800000, guid: 02ef2ef3780b61341bb0f5f87edf8c6d, type: 3}
+    - {fileID: 2800000, guid: d6075644e53dd2541bf146373ade48f6, type: 3}
+    - {fileID: 2800000, guid: a6d91b1359b64ae45bf0eed47c2f2bc3, type: 3}
+    - {fileID: 2800000, guid: 122d67137b841694c92d288226a190cd, type: 3}
+    - {fileID: 2800000, guid: c848181d34cb95e4aabe54dd9185a3db, type: 3}
+    - {fileID: 2800000, guid: d77f73792850a2c438907696843a0639, type: 3}
+    - {fileID: 2800000, guid: 005ea08f4f5b7bc43b47e0034da3221a, type: 3}
+    - {fileID: 2800000, guid: 0c01e130a9879af4dbe3d1f3a4d57e62, type: 3}
+    - {fileID: 2800000, guid: 88dbd3c1c2b61564eaad9be4c9388282, type: 3}
+    - {fileID: 2800000, guid: 90672b7338dc29f409dea61b895584ad, type: 3}
+    - {fileID: 2800000, guid: 3ca9ed83f10520247800c58f9394cc4c, type: 3}
+    - {fileID: 2800000, guid: 0c45fa84af02a9540a55909cc7fac457, type: 3}
+    - {fileID: 2800000, guid: a5254a70a5cfdb7419c4e370baa9c17c, type: 3}
+    - {fileID: 2800000, guid: 7da93aed87404d64eb60cd2415e06d4d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0c01e130a9879af4dbe3d1f3a4d57e62, type: 3}
+  - {fileID: 21300000, guid: a5254a70a5cfdb7419c4e370baa9c17c, type: 3}
+  - {fileID: 21300000, guid: 5c6e3f6141e5f004c863626f08941ce7, type: 3}
+  - {fileID: 21300000, guid: 88dbd3c1c2b61564eaad9be4c9388282, type: 3}
+  - {fileID: 21300000, guid: 122d67137b841694c92d288226a190cd, type: 3}
+  - {fileID: 21300000, guid: a6d91b1359b64ae45bf0eed47c2f2bc3, type: 3}
+  - {fileID: 21300000, guid: 90672b7338dc29f409dea61b895584ad, type: 3}
+  - {fileID: 21300000, guid: 3ca9ed83f10520247800c58f9394cc4c, type: 3}
+  - {fileID: 21300000, guid: 02ef2ef3780b61341bb0f5f87edf8c6d, type: 3}
+  - {fileID: 21300000, guid: d6075644e53dd2541bf146373ade48f6, type: 3}
+  - {fileID: 21300000, guid: 0c45fa84af02a9540a55909cc7fac457, type: 3}
+  - {fileID: 21300000, guid: d77f73792850a2c438907696843a0639, type: 3}
+  - {fileID: 21300000, guid: c848181d34cb95e4aabe54dd9185a3db, type: 3}
+  - {fileID: 21300000, guid: b423183de84c5204fbf69ac90e1e5d3b, type: 3}
+  - {fileID: 21300000, guid: 7da93aed87404d64eb60cd2415e06d4d, type: 3}
+  - {fileID: 21300000, guid: 005ea08f4f5b7bc43b47e0034da3221a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 3671881_timer_icon
+  - 8665692_moon_night_icon
+  - 134213_home_house_building_main_icon
+  - 5898878_achievement_award_game_level_play_icon
+  - 1608583_book_icon
+  - 1564530_arrow_next_share_direction_icon
+  - 5898878_achievement_edited_icon
+  - 9041493_sunset_fill_icon
+  - 211724_cloud_icon
+  - 1564490_arrow_music_play_arrows_audio_icon
+  - 8542128_redo_alt_icon
+  - heart
+  - 1608802_question_icon
+  - 111048_tools_settings_icon
+  - 8542083_level_up_alt_icon
+  - 2203528_lound_sound_speaker_volume_icon
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0

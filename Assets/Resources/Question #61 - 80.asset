@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6af9a88f2305a934d97d026076a41788, type: 3}
+  m_Name: Question #61 - 80
+  m_EditorClassIdentifier: 
+  _text: 
+  _isTask: 1
+  _level: Intermediate
+  _questions:
+  - question: We _ work in that factory.
+    options:
+    - use to
+    - was
+    - used to
+    - then
+    correctIs: 2
+  - question: I think it _ be sunny tomorrow.
+    options:
+    - will probably
+    - probably
+    - can
+    - will to
+    correctIs: 0
+  - question: He _ like his brother.
+    options:
+    - look
+    - isn't
+    - isn't look
+    - can look
+    correctIs: 1
+  - question: _ does your boyfriend look like?
+    options:
+    - How
+    - What
+    - Why
+    - Which
+    correctIs: 1
+  - question: I've got _ many problems.
+    options:
+    - too
+    - a
+    - enough
+    - really
+    correctIs: 0
+  - question: If we get up in time, _ catch the train.
+    options:
+    - we catch
+    - we caught
+    - we had caught
+    - we'll catch
+    correctIs: 3
+  - question: They _ to go to France for a year.
+    options:
+    - decide
+    - deciding
+    - decided
+    - to decide
+    correctIs: 2
+  - question: I'm working _ to pass my exam.
+    options:
+    - hardly
+    - much
+    - hard
+    - good
+    correctIs: 2
+  - question: I'm writing _ ask you to explain.
+    options:
+    - for
+    - in order to
+    - because
+    - because of
+    correctIs: 1
+  - question: He said that most problems _ by teenagers.
+    options:
+    - cause
+    - caused
+    - were caused
+    - were causing
+    correctIs: 2
+  - question: What _ to do at the weekend?
+    options:
+    - have you like
+    - are you liking
+    - do you like
+    - is you like
+    correctIs: 2
+  - question: Football _ in most countries.
+    options:
+    - plays
+    - players
+    - is played
+    - is playing
+    correctIs: 2
+  - question: Who was _ the door?
+    options:
+    - at
+    - on
+    - in
+    - of
+    correctIs: 0
+  - question: We _ lunch when you telephoned.
+    options:
+    - was having
+    - had
+    - were having
+    - are having
+    correctIs: 2
+  - question: Your work is _ better.
+    options:
+    - being
+    - doing
+    - getting
+    - falling
+    correctIs: 2
+  - question: She could play the piano _ she could walk.
+    options:
+    - during
+    - while
+    - as well
+    - before
+    correctIs: 3
+  - question: The train was cancelled, so we _ .
+    options:
+    - couldn't go
+    - wasn't go
+    - didn't went
+    - mustn't go
+    correctIs: 0
+  - question: The problem was _ solved.
+    options:
+    - easy
+    - easy to
+    - an easy
+    - easily
+    correctIs: 3
+  - question: It was a difficult journey, but I _ get home.
+    options:
+    - could
+    - managed to
+    - at last
+    - was
+    correctIs: 1
+  - question: We had not _ heard the news.
+    options:
+    - already
+    - always
+    - yet
+    - today
+    correctIs: 2
+  - question: I _ outside the cinema when suddenly a police car arrived.
+    options:
+    - stood
+    - was standing
+    - have stood
+    - am standing
+    correctIs: 1
+  - question: Shall we go to The Riceboat for dinner? It _ he fully booked. They're
+      sometimes busy on a Monday.
+    options:
+    - will
+    - may
+    - can
+    - must
+    correctIs: 1
+  - question: We've _ come back from a trip to India. It was amazing.
+    options:
+    - already
+    - yet
+    - just
+    - only
+    correctIs: 2
+  - question: I've got to be at work in five minutes. Don't worry, I _ you a lift
+      if you want.
+    options:
+    - give
+    - am giving
+    - '''ll give'
+    - '''m going to give'
+    correctIs: 2
+  - question: My doctor advised me _ more exercise.
+    options:
+    - take
+    - taking
+    - having taken
+    - to take
+    correctIs: 3
+  - question: I couldn,t _ up with the noise in the city, so we moved to the countryside.
+    options:
+    - put
+    - live
+    - set
+    - take
+    correctIs: 0
+  - question: There's no name on this dictionary. It _ be mine then. Mine's got my
+      name on the front.
+    options:
+    - might not
+    - mustn't
+    - won't
+    - can't
+    correctIs: 3
+  - question: Julia _ married since she was 20.
+    options:
+    - is
+    - was
+    - has been
+    - is being
+    correctIs: 2
+  - question: Don't worry if I _ late tonight. I'm going to the gym after work.
+    options:
+    - am
+    - will be
+    - would be
+    - was
+    correctIs: 0
+  - question: I've got a terrible headache, and it won't go away. Have you tried
+      _ some aspirin?
+    options:
+    - to take
+    - take
+    - took
+    - taking
+    correctIs: 0
+  - question: Boxing is a sport _ requires a lot of speed and fitness.
+    options:
+    - it
+    - that
+    - what
+    - where
+    correctIs: 1
+  - question: Jon _ working on this project for a couple of months so he hasn't made
+      much progress yet.
+    options:
+    - is only
+    - has only been
+    - was only
+    - had only been
+    correctIs: 1
+  - question: I was wondering _ I could ask you some questions. Sure, go ahead.
+    options:
+    - what
+    - if
+    - that
+    - how
+    correctIs: 1
+  - question: What clothes should I pack for a trip to Boston? Well, it depends _
+      the time of year.
+    options:
+    - on
+    - with
+    - up
+    - to
+    correctIs: 0
+  - question: I've finished this salad and I'm still hungry. I _ ordered something
+      more filling.
+    options:
+    - must have
+    - would have
+    - should have
+    - may have
+    correctIs: 2
+  - question: Do you ever ask your neighbours to do favours _ you?
+    options:
+    - for
+    - to
+    - with
+    - about
+    correctIs: 0
+  - question: Some married couples seem to get more _ over time.
+    options:
+    - alike
+    - same
+    - like
+    - equal
+    correctIs: 0
+  - question: I don't know how much this card costs. The price label's _ off.
+    options:
+    - gone
+    - taken
+    - done
+    - come
+    correctIs: 3
+  - question: Ben got the job because he _ a very good impression at his interview.
+    options:
+    - made
+    - did
+    - put
+    - took
+    correctIs: 0
+  - question: Salsa music always _ me of my trip to Cuba.
+    options:
+    - remembers
+    - realises
+    - recognises
+    - reminds
+    correctIs: 3
+  - question: Tom phoned me this morning and said he _ be a bit late.
+    options:
+    - can
+    - must
+    - should
+    - would
+    correctIs: 3
+  - question: It's going to be extremely hot this weekend. I can't believe it. It
+      _ since Sunday.
+    options:
+    - rains
+    - has been raining
+    - is raining
+    - was raining
+    correctIs: 1
+  - question: What colour are you going to use? I _ probably choose something bright.
+    options:
+    - will
+    - may
+    - can
+    - might
+    correctIs: 0
+  - question: If I _ choose, I'd probably travel to ancient Egypt.
+    options:
+    - can
+    - will
+    - could
+    - would
+    correctIs: 2
+  - question: The concert was fantastic yesterday. You _ have come.
+    options:
+    - must
+    - could
+    - ought
+    - should
+    correctIs: 3
+  - question: It said on the news that the queen is a duck. That _ be right! I don't
+      think that's true.
+    options:
+    - must
+    - can't
+    - won't
+    - would
+    correctIs: 1
+  - question: That shift was difficult. What would you have done if you _ in my position?
+    options:
+    - are
+    - were
+    - had been
+    - would be
+    correctIs: 2
+  - question: New engine doesn't seem to work. I should take it _ and ask for a refund.
+    options:
+    - up
+    - out
+    - away
+    - back
+    correctIs: 3
+  - question: Are you OK, Tom? I just wish _ an aisle seat so that I could feel relaxed.
+    options:
+    - had chosen
+    - have chosen
+    - would choose
+    - should choose
+    correctIs: 0
+  - question: It's just a copy. The original picture, _ is a portrait of the artist,
+      sold for $2 million!
+    options:
+    - whose
+    - which
+    - whom
+    - that
+    correctIs: 1
+  - question: _ he was almost 80 when hi did them, his paintings are beautiful.
+    options:
+    - Since
+    - Besides
+    - Although
+    - Therefore
+    correctIs: 2
+  - question: I _ looking for a new pair of shoes for weeks, but I can't find anything
+      I like.
+    options:
+    - am
+    - was
+    - had been
+    - have been
+    correctIs: 3
