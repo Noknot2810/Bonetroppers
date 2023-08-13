@@ -1,7 +1,7 @@
 ![GameIcon](https://github.com/Noknot2810/Bonetroppers/assets/72942455/376a6cec-7fe7-4a63-a1fa-ef7186999dcb)
 # Bonetroppers
 ## Introduction
-Bonetroppers is an educational game on Unity based on the multiple choice test part from Cambridge English Examinations. It includes questions from various common reference levels and can be useful for the majority of English learners, especially who wants to test themselves and better understand their level. This game is a diploma project.
+Bonetroppers is an educational Android game on Unity based on the multiple choice test part from Cambridge English Examinations. It includes questions from various common reference levels and can be useful for the majority of English learners, especially who wants to test themselves and better understand their level. This game is a diploma project.
 
 You can learn more about the game from this [presentation](https://github.com/Noknot2810/Bonetroppers/blob/master/Presentation%20Bonetroppers.pdf) (in Russian).
 
